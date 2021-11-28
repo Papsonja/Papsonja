@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Papsonja
 - 👀 I’m interested in ... Games and coding
-- 🌱 I’m currently learning ... python c++
+- 🌱 I’m currently learning ... Python, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... you can't
 
